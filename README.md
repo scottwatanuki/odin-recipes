@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic recipe website with links to few of the recipes used. This project demonstrates my skills in using Git to upload this project to GitHub, using foundational skills in HTML such as elements and tags, boilerplate, lists, links and images, and writing good commit messages.
