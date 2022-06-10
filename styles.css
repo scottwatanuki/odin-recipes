@@ -1,0 +1,18 @@
+head {
+    color: black;
+    background-color: black;
+    font-size: 20px;
+  }
+
+  body {
+    margin: 0;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f0fff0;
+    color: black;
+    font-size: 20px;
+  }
+
+  ul {
+    font-size: 20px;
+  }
